@@ -1,0 +1,14 @@
+{
+  "name": "dotjem-angular-zoom",
+  "description": "Angular directives for performing image zoom...",
+  "main": "dotjem-angular-zoom.js",
+  "authors": [
+    "dotJEM"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "image",
+    "zoom"
+  ],
+  "homepage": "https://github.com/dotJEM/angular-zoom"
+}
