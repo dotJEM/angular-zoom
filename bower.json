@@ -10,5 +10,8 @@
     "image",
     "zoom"
   ],
-  "homepage": "https://github.com/dotJEM/angular-zoom"
+  "homepage": "https://github.com/dotJEM/angular-zoom",
+  "dependencies": {
+    "dotjem-angular-events": "^0.0.1"
+  }
 }
